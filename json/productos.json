@@ -1,0 +1,15 @@
+[
+    {"id":1, "nombre":"Taylor 414ce", "descripcion":"V-Class edicion especial gran auditorio.", "precio":2.999, "imagen":"./imagenes/taylorguitars.webp", "categoria":"guitarras"},
+    {"id":2, "nombre":"Yamaha F335", "descripcion":"Guitarra acustica negra.", "precio":189.99, "imagen":"./imagenes/yamahanegra.jpg", "categoria":"guitarras"},
+    {"id":3, "nombre":"Martin Special Dreadnought X1AE", "descripcion":"Guitarra electroacustica natural.", "precio":649.99, "imagen":"./imagenes/martinspecial.webp", "categoria":"guitarras"},
+    {"id":4, "nombre":"Fender FA-135CE", "descripcion":"Guitarra electroacustica de concierto Sunburst.", "precio":199.99, "imagen":"./imagenes/fender.jpg", "categoria":"guitarras"},
+    {"id":5, "nombre":"Nord Stage 4 88", "descripcion":"Diseño de panel intuitivo, un teclado de 88 teclas de triple sensor totalmente ponderado.", "precio":5.699, "imagen":"./imagenes/nord.webp", "categoria":"pianos"},
+    {"id":6, "nombre":"Piano digital Yamaha", "descripcion":"Teclado digital piano negro.", "precio":1.599, "imagen":"./imagenes/pianoyamaha.webp", "categoria":"pianos"},
+    {"id":7, "nombre":"Roland RD-88EX ", "descripcion":" Teclado de escenario Roland RD-88EX negro.", "precio":2.999, "imagen":"./imagenes/pianoroland.webp", "categoria":"pianos"},
+    {"id":8, "nombre":"KORG Grandstage X", "descripcion":"Piano de escenario blanco.", "precio":2.999, "imagen":"./imagenes/pianoblanco.webp", "categoria":"pianos"},
+    {"id":9, "nombre":"Shure SM58", "descripcion":"Micrófono dinámico cardioide con cable Shure SM58 Special Black Edition.", "precio":99.00, "imagen":"./imagenes/shure.jpg", "categoria":"microfono"},
+    {"id":10, "nombre":"Shure BETA 58A", "descripcion":"Micrófono vocal dinámico supercardioide Shure BETA 58A.", "precio":169.99, "imagen":"./imagenes/beta.jpg", "categoria":"microfono"},
+    {"id":11, "nombre":"Warm Audio WA-8000", "descripcion":"Micrófono de condensador de tubo de diafragma grande Warm Audio WA-8000, color negro.", "precio":1.199, "imagen":"./imagenes/condensador.jpg", "categoria":"microfono"},
+    {"id":12, "nombre":"Shure BLX24R/SM58", "descripcion":"Sistema inalámbrico Shure BLX24R/SM58 con receptor montable en rack y cápsula de micrófono SM58 Band H9.", "precio":429.00, "imagen":"./imagenes/inalambrico.webp", "categoria":"microfono"}
+]
+
